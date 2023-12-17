@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Tarea2_LR</string>
+    <string name="textview">TextView</string>
+    <string name="euros_a_d_lares">Euros a Dólares</string>
+    <string name="d_lares_a_euros">Dólares a Euros</string>
+    <string name="button">Button</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tarea_2_pmdm">Tarea 2 PMDM</string>
+    <string name="actividad_3">Actividad 3</string>
+    <string name="actividad_2">Actividad 2</string>
+    <string name="actividad_1">Actividad 1</string>
+    <string name="conversor_de_moneda">Conversor de moneda</string>
+    <string name="dolar">$ Dolar</string>
+    <string name="euro">€ Euro</string>
+    <string name="dolares_a_euros">dolarea a euros\n</string>
+    <string name="euros_a_dolares">euros a dolares</string>
+    <string name="cambio">Cambio</string>
+</resources>
